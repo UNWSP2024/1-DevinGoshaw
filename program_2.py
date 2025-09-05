@@ -14,7 +14,7 @@ def proverbs_22_29():
     print()
     print('he will not stand before obscure men."')
     print()
-    print('     (proverbs 22:29)')
+    print('     (Proverbs 22:29)')
     print()
     
 proverbs_22_29()
