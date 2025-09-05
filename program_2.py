@@ -16,4 +16,5 @@ def proverbs_22_29():
     print()
     print('     (proverbs 22:29)')
     print()
+    
 proverbs_22_29()
